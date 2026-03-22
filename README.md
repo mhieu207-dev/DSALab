@@ -87,7 +87,7 @@ Vào [github.com/CocAgent/DSALab](https://github.com/CocAgent/DSALab) → nhấn
 
 **Bước 2 — Clone về máy:**
 ```bash
-git clone https://github.com/<tên-của-bạn>/DSALab.git
+git clone https://github.com/CocAgent/DSALab.git
 cd DSALab
 ```
 
